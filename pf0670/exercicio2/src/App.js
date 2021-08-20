@@ -4,7 +4,7 @@ import Footer from './components/footer/Footer'
 import Header from './components/header/Header'
 import './App.css'
 
-export default ()=> {
+const App =  ()=> {
 
    return(
       <div className="container">
@@ -14,3 +14,5 @@ export default ()=> {
           <Footer/>
       </div>
 )}
+
+export default App
