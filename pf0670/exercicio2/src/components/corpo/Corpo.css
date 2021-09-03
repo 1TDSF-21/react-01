@@ -1,0 +1,16 @@
+section{
+    background-color: darkgray;
+}
+
+section h2{
+    text-align: center;
+}
+
+section img{
+    display: block;
+    margin: auto;
+}
+
+section p:hover{
+    background-color: darkorange;
+}
