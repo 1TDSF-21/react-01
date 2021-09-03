@@ -1,0 +1,12 @@
+.carteirinha{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    background-color: rgb(30, 192, 178);
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 25rem;
+    font-family: 'Baloo 2', cursive;;
+}
+.formulario{ text-align: right; width: 16rem }
+
