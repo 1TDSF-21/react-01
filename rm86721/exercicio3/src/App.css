@@ -1,0 +1,23 @@
+*{
+  background:black;
+  color:white;
+  list-style: none;
+}
+
+.App {
+  text-align: center;
+}
+
+.cards{
+  display:flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+
+.campos{
+  display:flex;
+  flex-direction: column;
+
+  width: 20rem
+}
