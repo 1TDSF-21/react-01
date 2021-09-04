@@ -11,7 +11,7 @@ import Pedro from "./img/pedro.jpeg";
 import Pimenta from "./img/pimenta.jpg";
 
 function App() {
-  let lista = ["teste ", "outro teste ", "sapo ", "fox ", "another teste"];
+  let lista = ["golzinho ", "uno", "fit", "fox ", "corola"];
 
   const [nome,setNome] = useState("");
   const [rm,setRm] = useState("");
