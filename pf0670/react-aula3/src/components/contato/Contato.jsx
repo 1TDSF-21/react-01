@@ -17,9 +17,7 @@ export default function Contato() {
             setCarro({ 'marca': carro.marca, 'modelo': value })
         }
 
-
     }
-
 
     return (
         <div>
