@@ -1,9 +1,12 @@
 import React from 'react'
+import ListaTarefas from './components/listaTarefas/ListaTarefas'
 
-export default function Ap() {
+const App = () =>{
     return (
-        <div>
-            <h1>App.js</h1>
-        </div>
+        <>
+            <ListaTarefas/>
+        </>
     )
 }
+
+export default App 
